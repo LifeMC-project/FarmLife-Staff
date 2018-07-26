@@ -1,0 +1,3 @@
+name: FarmStaff
+version: ${project.version}
+main: net.lifemc.chat.FarmStaff
